@@ -1,0 +1,11 @@
+{
+  "key.category.skyzoom.main": "SkyZoom",
+  "key.skyzoom.gui": "Open menu",
+  "key.skyzoom.zoom": "Zoom (hold, scroll to adjust)",
+  "key.skyzoom.sky": "Cycle sky time",
+  "key.skyzoom.weather": "Cycle sky weather",
+  "key.skyzoom.freecam": "Toggle freecam",
+  "key.skyzoom.lock": "Freecam: control player / camera",
+  "key.skyzoom.hud": "Toggle HUD",
+  "key.skyzoom.panic": "Panic (all modules off)"
+}

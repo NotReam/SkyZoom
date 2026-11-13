@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "skyzoom",
+  "version": "${version}",
+  "name": "SkyZoom Client",
+  "description": "Zoom, sky changer, FPS/coords HUD and freecam.",
+  "environment": "client",
+  "entrypoints": { "client": ["dev.skyzoom.SkyZoom"] },
+  "mixins": ["skyzoom.mixins.json"],
+  "depends": { "fabricloader": ">=0.19.0", "minecraft": ">=26.3", "java": ">=25", "fabric-api": "*" }
+}
